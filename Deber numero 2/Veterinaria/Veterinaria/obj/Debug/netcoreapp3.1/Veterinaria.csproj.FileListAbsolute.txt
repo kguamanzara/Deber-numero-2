@@ -1,0 +1,13 @@
+C:\Users\Vannesa\Documents\Katy Vanessa\TERCER SEMESTRE\PROGRAMACION VISUAL\Deber numero 2\Veterinaria\Veterinaria\obj\Debug\netcoreapp3.1\Veterinaria.csprojAssemblyReference.cache
+C:\Users\Vannesa\Documents\Katy Vanessa\TERCER SEMESTRE\PROGRAMACION VISUAL\Deber numero 2\Veterinaria\Veterinaria\obj\Debug\netcoreapp3.1\Veterinaria.AssemblyInfoInputs.cache
+C:\Users\Vannesa\Documents\Katy Vanessa\TERCER SEMESTRE\PROGRAMACION VISUAL\Deber numero 2\Veterinaria\Veterinaria\obj\Debug\netcoreapp3.1\Veterinaria.AssemblyInfo.cs
+C:\Users\Vannesa\Documents\Katy Vanessa\TERCER SEMESTRE\PROGRAMACION VISUAL\Deber numero 2\Veterinaria\Veterinaria\obj\Debug\netcoreapp3.1\Veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Vannesa\Documents\Katy Vanessa\TERCER SEMESTRE\PROGRAMACION VISUAL\Deber numero 2\Veterinaria\Veterinaria\bin\Debug\netcoreapp3.1\Veterinaria.exe
+C:\Users\Vannesa\Documents\Katy Vanessa\TERCER SEMESTRE\PROGRAMACION VISUAL\Deber numero 2\Veterinaria\Veterinaria\bin\Debug\netcoreapp3.1\Veterinaria.deps.json
+C:\Users\Vannesa\Documents\Katy Vanessa\TERCER SEMESTRE\PROGRAMACION VISUAL\Deber numero 2\Veterinaria\Veterinaria\bin\Debug\netcoreapp3.1\Veterinaria.runtimeconfig.json
+C:\Users\Vannesa\Documents\Katy Vanessa\TERCER SEMESTRE\PROGRAMACION VISUAL\Deber numero 2\Veterinaria\Veterinaria\bin\Debug\netcoreapp3.1\Veterinaria.runtimeconfig.dev.json
+C:\Users\Vannesa\Documents\Katy Vanessa\TERCER SEMESTRE\PROGRAMACION VISUAL\Deber numero 2\Veterinaria\Veterinaria\bin\Debug\netcoreapp3.1\Veterinaria.dll
+C:\Users\Vannesa\Documents\Katy Vanessa\TERCER SEMESTRE\PROGRAMACION VISUAL\Deber numero 2\Veterinaria\Veterinaria\bin\Debug\netcoreapp3.1\Veterinaria.pdb
+C:\Users\Vannesa\Documents\Katy Vanessa\TERCER SEMESTRE\PROGRAMACION VISUAL\Deber numero 2\Veterinaria\Veterinaria\obj\Debug\netcoreapp3.1\Veterinaria.dll
+C:\Users\Vannesa\Documents\Katy Vanessa\TERCER SEMESTRE\PROGRAMACION VISUAL\Deber numero 2\Veterinaria\Veterinaria\obj\Debug\netcoreapp3.1\Veterinaria.pdb
+C:\Users\Vannesa\Documents\Katy Vanessa\TERCER SEMESTRE\PROGRAMACION VISUAL\Deber numero 2\Veterinaria\Veterinaria\obj\Debug\netcoreapp3.1\Veterinaria.genruntimeconfig.cache
